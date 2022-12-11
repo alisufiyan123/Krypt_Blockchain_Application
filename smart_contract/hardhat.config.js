@@ -5,8 +5,8 @@ module.exports = {
   solidity: '0.8.0',
   networks: {
     goerli: {
-      url: 'https://eth-goerli.g.alchemy.com/v2/RhRCo7r4qCtlOQTtQQJmja0s-_2ZR7So',
-      accounts: ['974d38e98be71cc84c7433d2c30748d0ba4818143178677c8e78d3c5e0771bc1']
+      url: 'https://eth-goerli.g.alchemy.com/v2/Co7QQJtlOqC_So0s-mQTtajRh2ZR7Rr4',
+      accounts: ['974d2c3bad0748d038e98be77bc4337867741cc84c3178d1c8e3c5e077148181']
     },
   },
 };
